@@ -2,7 +2,7 @@
 
 Welcome to my portfolio repository! This repository contains the source code for my personal portfolio website, showcasing my skills, projects, and achievements.
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVteGN3YWh5MmttZmpsNmh4eWU4eHpvMnJhNHJwbGV0djc1eHp6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/deuNLNpduf6hGZRmv0/giphy.gif" width="40" height="40" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDVteGN3YWh5MmttZmpsNmh4eWU4eHpvMnJhNHJwbGV0djc1eHp6OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/deuNLNpduf6hGZRmv0/giphy.gif"/>
 
 ## Table of Contents
 
