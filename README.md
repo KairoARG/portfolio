@@ -6,9 +6,7 @@
 
 Welcome to my portfolio repository! This repository contains the source code for my personal portfolio website, showcasing my skills, projects, and achievements.
 
-<p align="center">
-  <img src="https://i.imgur.com/WdEEtvr.gif"/>
-</p>
+![Portfolio Preview](https://i.imgur.com/WdEEtvr.gif)
 
 ## Table of Contents
 
