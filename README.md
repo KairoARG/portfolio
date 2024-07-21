@@ -57,7 +57,7 @@ Feel free to reach out to me via [atharv2703123@gmail.com](mailto:atharv2703123@
 I welcome contributions to improve this portfolio website. If you have suggestions or improvements, please feel free to open an issue or submit a pull request.
 
 <p align="center">
-    <img src="[https://via.placeholder.com/50](https://scontent-maa2-2.cdninstagram.com/v/t51.2885-19/441749156_758662029420875_6695889529579197125_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-maa2-2.cdninstagram.com&_nc_cat=111&_nc_ohc=hcCWdWDQWlgQ7kNvgGakACo&edm=AEhyXUkBAAAA&ccb=7-5&oh=00_AYAseuNaMTxRZJNmbLUmwOBjBzt2AdrQRgxvYr45Ttdd9Q&oe=66A2BA2B&_nc_sid=8f1549)" alt="Logo" width="50">
+    <img src="[https://scontent-maa2-2.cdninstagram.com/v/t51.2885-19/441749156_758662029420875_6695889529579197125_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-maa2-2.cdninstagram.com&_nc_cat=111&_nc_ohc=hcCWdWDQWlgQ7kNvgGakACo&edm=AEhyXUkBAAAA&ccb=7-5&oh=00_AYAseuNaMTxRZJNmbLUmwOBjBzt2AdrQRgxvYr45Ttdd9Q&oe=66A2BA2B&_nc_sid=8f1549)" alt="Logo" width="50">
     <br>
     Made with ❤️ by Atharv R Gachchi
 </p>
